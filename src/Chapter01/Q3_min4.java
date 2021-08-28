@@ -18,6 +18,8 @@ public class Q3_min4 {
 	}
 
 	public static void main(String[] args) {
+		
+		//Scanner 클래스로 수정하기
 		System.out.println("min4(3, 9, 2, 1) = " + min4(3, 9, 2, 1));
 		System.out.println("min4(3, 2, 5, 2) = " + min4(3, 2, 5, 2));
 		System.out.println("min4(8, 3, 1, 2) = " + min4(8, 3, 1, 2));

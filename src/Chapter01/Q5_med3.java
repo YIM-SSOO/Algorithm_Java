@@ -6,6 +6,9 @@ public class Q5_med3 {
 
 	static int med3(int a, int b, int c) {
 
+		// 1번째 if 조건문
+		// ((b보다 a가 작거나 클때 && c가 a보다 작거나 같을때) OR (b가 a보다 작거나 같고  c가 a보다 크거나 같을때)
+		//  b>a>c OR c>a>b
 		if ((b >= a && c <= a) || (b <= a && c >= a))
 			return a;
 		

@@ -18,7 +18,7 @@ public class Q2_min3 {
 	public static void main(String[] args) {
 		System.out.println("min3( 3, 2, 1) = " + min3( 3, 2, 1)); 
 		System.out.println("min3( 3, 2, 2) = " + min3( 3, 2, 2)); 
-		System.out.println("min3(3, 1, 2) = " + min3(3, 1, 2)); 
+		System.out.println("min3( 3, 1, 2) = " + min3(3, 1, 2)); 
 		
 	}
 
