@@ -46,7 +46,7 @@ Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바
               2) 2항 연산자(binary oprator),  피연산자 2개  [ex. a < b]
               3) 3항 연산자(ternary operator), 피연산자 3개 [ex. a ? b : c]
           * 조건 연산자(conditional operator)
-               - '? :'는 자바에서 유일한 3항 연산자이다. 
+               - '? :' 는 자바에서 유일한 3항 연산자이다. 
                   => 식 a ? b : c 는 a가 true이면 b를 반환하고 false이면 c를 반환한다. 
 
 
