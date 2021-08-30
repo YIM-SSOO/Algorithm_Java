@@ -14,7 +14,8 @@ Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바
             • () 안에 있는 식의 평가 결과에 따라 프로그램의 실행 흐름을 변하는 
               if문을 selection(선택 구조)라 한다.
         
-          * Scanner 클래스 내의 method
+          *Scanner 클래스 내의 method
+           
            - nextBoolean() : boolean, 결과: true/false
            - nextByte()    : byte, 범위: -128 ~ +127
            - nextShort()   : short, 범위: -32768 ~ 32767
@@ -25,19 +26,19 @@ Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바
            - next()        : String, 문자열(스페이스, 줄 바꿈 문자로 구분)
            - nextLine()    : String, 문자열 1줄
           
-          * 매개변수(parameter) 
+          *매개변수(parameter) 
              : method를 정의할 때 메서드에 전달되는 값을 저장하기 위해 변수(variable)을 선언한다.
                이를 매개변수(parameter) 또는 형식매개변수(formal parameter)라 한다.
                - 매개변수 => 메서드를 호출할 때 사용하는 매개변수의 값을 actual argument(실인수)
                - 형식매개변수 => 임시임수, 가인수
                간단하게 메서드를 '정의'할 때는 매개변수라 하고, 메서드를 '호출'할 때는 실인수이다. 
 
-          * 결정 트리(decision tree)
+          *결정 트리(decision tree)
             : 대소 관계의 조합을 나열한 모양이 나무형태이므로 결정 트리라 한다.
               결정 트리는 왼쪽(a≧b)에서 시작해서 오른쪽으로 이동
               O 안의 조건이 성립하면 윗가지로, 성립하지 않으면 아랫가지로 이동한다.
             
-          * 연산자와 피연산자
+          *연산자와 피연산자
            - 연산자 : +, - 등의 연산기호를 opretor라 한다. (ex. a > b)
            - 피연산자 : 연산의 대상이 되는 것을 oprand라 한다. (ex. a, b)
 
@@ -45,7 +46,8 @@ Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바
               1) 단항 연산자(unary operator), 피연산자 1개  [ex. a++]
               2) 2항 연산자(binary oprator),  피연산자 2개  [ex. a < b]
               3) 3항 연산자(ternary operator), 피연산자 3개 [ex. a ? b : c]
-          * 조건 연산자(conditional operator)
+          
+          *조건 연산자(conditional operator)
                - '? :' 는 자바에서 유일한 3항 연산자이다. 
                   => 식 a ? b : c 는 a가 true이면 b를 반환하고 false이면 c를 반환한다. 
 
@@ -63,7 +65,7 @@ Do it! 자료구조와 함께 배우는 알고리즘 입문 - 자바
     * do문
       do문while(제어문);
       
-     * 사전 판단 반복과 사후 판단 반복의 차이점
+     *사전 판단 반복과 사후 판단 반복의 차이점
         - 사전 판단 반복문 (while문, for문) : 처음에 제어식을 평가한 후 결과가 No일 경우 루프 본문은 한번도 실행되지 않음
         - 사후 판단 반목문 (do문)           : 본문이 반드시 한번은 실행된다. 
 
