@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 
 //3개의 정숫값을 입력하고 중앙 값을 구한 다음 출력합니다. 

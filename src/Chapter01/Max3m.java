@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 // 3개의 정숫 값 가운데 최대 값을 구하여 출력합니다.
 public class Max3m {

@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 // 네 값의 최소값을 구하는 min4메서드를 작성하시오
 public class Q3_min4 {

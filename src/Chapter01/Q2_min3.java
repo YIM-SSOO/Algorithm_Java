@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 // 세 값의 최소값을 구하는 min3메서드를 작성하시오
 public class Q2_min3 {

@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 import java.util.Scanner; //java.util 패키지에 있는 Scanner 클래스
 

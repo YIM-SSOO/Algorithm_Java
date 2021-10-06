@@ -1,4 +1,4 @@
-package Chapter01;
+package chapter01;
 
 // 네 값의 최대값을 구하는 max4메서드를 작성하시오
 public class Q1_max4 {
